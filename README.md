@@ -47,3 +47,7 @@ Go-Do is structured as follows:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Note
+
+This version of project will store everything while server is running once it is stoped or restarted everything except default values will be removed. This problem will be fixed in next update where I will add database support and where everything will be stored in datbase.
