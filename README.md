@@ -38,8 +38,11 @@ The following routes are available in Go-Do:
 Go-Do is structured as follows:
 
 main.go - Contains the main function and server setup.
+
 README.md - Contains information about the project.
+
 go.mod - Contains module information and dependencies.
+
 go.sum - Contains checksum information for dependencies.
 
 ## Contributing
